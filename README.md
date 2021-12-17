@@ -1,1 +1,1 @@
-Basic Estate Management Software
+Basic Estate Management app
